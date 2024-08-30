@@ -1,0 +1,11 @@
+/__pycache__
+/.streamlit
+/.venv
+/data
+/data.ms
+/downloads
+/dumps
+.env
+*.json
+*.ndjson
+meilisearch
